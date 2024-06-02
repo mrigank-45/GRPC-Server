@@ -1,6 +1,6 @@
-# Basic Go gRPC Server and Client
+# Basic Go GRPC Server and Client
 
-This is a basic gRPC server and client written in Go. 
+This is a basic GRPC server and client written in Go. 
 
 We have implemented a simple gRPC server and client with the following functionality:
 - simple RPC
